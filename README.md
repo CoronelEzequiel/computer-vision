@@ -2,6 +2,7 @@
 
 ## Descripción del Proyecto
 
+
 Este proyecto de visión computacional se enfoca en desarrollar un sistema que simule el movimiento de un robot siguiendo un camino predefinido. Utilizando técnicas de procesamiento de imágenes y OpenCV, el robot es capaz de detectar un punto de inicio, identificar el camino más largo entre varios candidatos y seguirlo correctamente.
 
 El propósito principal de este proyecto es demostrar la capacidad de utilizar algoritmos de computer vision para resolver problemas de navegación autónoma, aplicando reglas heurísticas para la toma de decisiones a lo largo del trayecto.
